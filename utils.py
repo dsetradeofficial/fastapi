@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"  # Add your OpenAI API key here
+openai.api_key = ""  # Add your OpenAI API key here
 
 def generate_description(input):
     messages = [
